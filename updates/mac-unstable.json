@@ -1,0 +1,9 @@
+{
+  "version": "v0.3.0+47790ce",
+  "build": 1794932928,
+  "url": "https://github.com/phitrade/phi-releases/releases/download/v0.3.0/phi-v0.3.0.app.zip",
+  "sha256": "59f2a86181143d48d63c11205efe8f5a91f08ff2e3780635e03d98ef1f6b74a0",
+  "signature": "+fztITlYKOR7EtU43HNfbwXBNcwcycHuBREPQSBa7lcwJme4E6ywGipv/9QPt+b7YtaEcyqfPmsG6kHal4tDBQ==",
+  "minOs": "14.0",
+  "notes": "Support-Paket für die Fernhilfe, automatische Datenbank-Backups, alle Funktionen ohne Lizenzschlüssel und viele Verbesserungen an Abgleich, Budget und Oberfläche."
+}
