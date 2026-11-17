@@ -1,9 +1,9 @@
 {
-  "version": "v0.3.1+0a00ace",
-  "build": 1794938076,
-  "url": "https://github.com/phitrade/phi-releases/releases/download/v0.3.1/phi-v0.3.1.app.zip",
-  "sha256": "9f8a023e0ff97827fcab5009fb4f3ea44e5a67088d4584ba8b8cff5e396af261",
-  "signature": "fCUOIswKg0iegcQk2mtHaruJJ6jjjsDVhC8V87+9SNiV/NUvmT4nyVNW6fGX4LR0Lvn9twwkvwYNrRZH4CxmAg==",
+  "version": "v0.3.2+2589254",
+  "build": 1794941132,
+  "url": "https://github.com/phitrade/phi-releases/releases/download/v0.3.2/phi-v0.3.2.app.zip",
+  "sha256": "a619ebb414f50a30f1f1fa8f4b81afef65692dd3792669bb084e3adf7d219ff5",
+  "signature": "A/ChMZjGZAaNF5e6i0BeFEyB3yCFKh9oBG/Unrvl+yZWTBB8bXVHwo6X4aWrCkMyNP7eZefKxCEmQLewzT1XAQ==",
   "minOs": "14.0",
-  "notes": "Alles auf einfachem Deutsch, ein klarer Statussatz auf der Übersicht, einfachere Strategie-Seite, deutlichere Rückfragen vor Echtgeld und Notbremse, Schritt-für-Schritt-Einrichtung."
+  "notes": "Der Autopilot läuft nach einem Neustart oder Update von selbst weiter, wenn er vorher lief (abschaltbar unter Einstellungen → Handel). Die Versionsnummer im Finder stimmt jetzt."
 }
